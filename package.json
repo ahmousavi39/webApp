@@ -1,0 +1,19 @@
+{
+    "name": "myApp",
+    "version": "0.0.0",
+    "description": "This is my first web App",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "body-parser": "^1.10.2",
+        "express": "latest",
+        "express-session": "^1.10.1",
+        "morgan": "^1.10.0",
+        "mysql": "^2.18.1"
+    },
+    "author": "Amirhossein Mousavi",
+    "date" : "8 April 2020" 
+}
